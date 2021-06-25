@@ -1,0 +1,33 @@
+{
+  "name": "next-image-gallery",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Ashutosh K Singh",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.0",
+    "@chakra-ui/react": "^1.0.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "browserslist": "^4.16.6",
+    "framer-motion": "^4.1.17",
+    "next": "10.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelouchB/next-image-gallery.git"
+  },
+  "keywords": [
+    "next image gallery"
+  ],
+  "bugs": {
+    "url": "https://github.com/lelouchB/next-image-gallery/issues"
+  },
+  "homepage": "https://github.com/lelouchB/next-image-gallery#readme"
+}
